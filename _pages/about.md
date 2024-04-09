@@ -14,6 +14,8 @@ Sou Professor do Ensino Básico, Técnico e Tecnológico (EBTT) do [Instituto Fe
 
 Interesses de pesquisa
 ======
-Aprendizado de máquina
-Segurança da Informação
-Algoritmos
+- Aprendizado de máquina
+
+- Segurança da Informação
+
+- Algoritmos
