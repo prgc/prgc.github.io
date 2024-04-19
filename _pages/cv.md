@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Currículo"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,24 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formação acadêmica
 ======
 * Ph.D em Ciências da Computação, Universidade Federal de Pernambuco, 2024
 * M.S. em Engenharia da Computação, Universidade de Pernambuco, 2014
 * B.S. em Engenharia da Computação, Universidade de Pernambuco, 2012
 
-Work experience
+Experiência profissional
 ======
-* 2014 - Atual: Instituto Federal de Pernambuco
+* 2014 - Atual: Professor
+  * Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE)
   * Professor do Ensino Básico, Técnico e Tecnológico
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012 - 2014: Professor
+  * Faculdade de Ciências da Administração de Pernambuco (FCAP)
+  * Professor da disciplina de Informática Básica
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2010 - 2011: Estagiário
+  * Companhia Hidro Elétrica do São Francisco (CHESF)
+  * Estagiário na área de Desenvolvimento de Software na Divisão de Projeto e Implantação de Sistemas de Informação (DASI)
   
